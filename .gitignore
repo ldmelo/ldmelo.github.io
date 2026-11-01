@@ -1,0 +1,17 @@
+# Generative AI instructions environment
+.ai/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.vscode/
+.idea/
+
+# Temp & caches
+__pycache__/
+*.pyc
+*.log
+

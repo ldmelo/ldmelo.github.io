@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="22" height="22" fill="none">
+  <!-- Document silhouette -->
+  <path d="M7 3C5.89543 3 5 3.89543 5 5V27C5 28.1046 5.89543 29 7 29H25C26.1046 29 27 28.1046 27 27V11L19 3H7Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M19 3V11H27" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pure vector lettering for PDF -->
+  <path d="M9 16V23M9 16H12C13.1 16 14 16.9 14 18C14 19.1 13.1 20 12 20H9" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 16V23M16 16H18C19.7 16 21 17.5 21 19.5C21 21.5 19.7 23 18 23H16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23.5 16V23M23.5 16H27M23.5 19.5H26" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
